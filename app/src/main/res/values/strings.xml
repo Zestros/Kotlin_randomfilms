@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Randomfilms</string>
+    <string name="screen_title">What to watch?</string>
+    <string name="instructions">Tap the button to choose a random film.</string>
+    <string name="movie_placeholder">Your next film will appear here</string>
+    <string name="next_movie">Random film</string>
+    <string name="reset">Reset</string>
+    <string name="movies_remaining">Remaining: %1$d of %2$d</string>
+    <string name="no_more_movies">All films have been shown. Tap Reset to start again.</string>
+
+    <string-array name="movies">
+        <item>Inception</item>
+        <item>Interstellar</item>
+        <item>The Matrix</item>
+        <item>The Truman Show</item>
+        <item>Back to the Future</item>
+        <item>Forrest Gump</item>
+        <item>The Green Mile</item>
+        <item>The Shawshank Redemption</item>
+        <item>Spirited Away</item>
+        <item>WALL-E</item>
+    </string-array>
+</resources>

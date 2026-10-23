@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Случайный фильм</string>
+    <string name="screen_title">Что посмотреть?</string>
+    <string name="instructions">Нажмите кнопку, чтобы выбрать случайный фильм.</string>
+    <string name="movie_placeholder">Здесь появится ваш следующий фильм</string>
+    <string name="next_movie">Случайный фильм</string>
+    <string name="reset">Сброс</string>
+    <string name="movies_remaining">Осталось: %1$d из %2$d</string>
+    <string name="no_more_movies">Все фильмы показаны. Нажмите «Сброс», чтобы начать сначала.</string>
+
+    <string-array name="movies">
+        <item>Начало</item>
+        <item>Интерстеллар</item>
+        <item>Матрица</item>
+        <item>Шоу Трумана</item>
+        <item>Назад в будущее</item>
+        <item>Форрест Гамп</item>
+        <item>Зелёная миля</item>
+        <item>Побег из Шоушенка</item>
+        <item>Унесённые призраками</item>
+        <item>ВАЛЛ-И</item>
+    </string-array>
+</resources>
